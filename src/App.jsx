@@ -12,12 +12,16 @@ export const App = () => {
     setCount(prevCount => prevCount + 100);
   };
 
-  // DON'T change the code below
+  // DON'T change the code below (Task)
   const increase = () => {
+    // DON'T change the code below (Task)
     if (count % 5 === 0) {
+      // DON'T change the code below (Task)
       add100();
+      // DON'T change the code below (Task)
     }
 
+    // DON'T change the code below (Task)
     addOne();
   };
 
